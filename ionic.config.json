@@ -1,0 +1,7 @@
+{
+  "name": "storestacks",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
